@@ -63,6 +63,7 @@ html, body {
   background-color: #27282B;
   z-index: 99;
   display: none;
+  overflow-y: auto;
 }
 
 .details a {
